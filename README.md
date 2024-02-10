@@ -1,7 +1,7 @@
 ### Hi, I'm Thiago!
 
 - 🔭 I’m currently working on updating my firsst website VERSE ME.
-- 🌱 I’m currently learning Go/HTMX and Next.js
+- 🌱 Currently using Astro framework
 - 🤔 I’m looking for help with landing a first job.
 - 💬 Ask me about my projects and anything code related
 - 📫 How to reach me: @ my Linkedin - https://www.linkedin.com/in/thiago-bueno-garcia-34604a25a/
