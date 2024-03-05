@@ -1,6 +1,6 @@
 ### Hi, I'm Thiago!
 
-- 🔭 I’m currently working on updating my firsst website VERSE ME.
+- 🔭 I’m currently learning Windows powershell.
 - 🌱 Currently using Astro framework
 - 🤔 I’m looking for help with landing a first job.
 - 💬 Ask me about my projects and anything code related
