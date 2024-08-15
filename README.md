@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-I'm a recent grad at General Assembly from the Software Engineer Program <br><br>- 🔭 I’m currently working on backend in GoLang(Go) <br>- 🌱 Currently using Arch Linux <br>- 🤔 I’m looking for help with landing a first job.<br>- 💬 Ask me about my projects and anything code related<br>- 📫 How to reach me: @ my Linkedin - https://www.linkedin.com/in/thiago-bueno-garcia-34604a25a/<br>- ⚡ Fun fact: I play League of Legends and the Ukelele</p>
+I'm a recent grad at General Assembly from the Software Engineer Program <br><br>- 🔭 I’m currently working on backend in GoLang(Go) <br>- 🌱 Currently using Arch Linux <br>- 🤔 I’m looking for help with landing a first job.<br>- 💬 Ask me about my projects and anything code related<br>- 📫 How to reach me: @ my Linkedin - https://www.linkedin.com/in/thiago-bueno-garcia-34604a25a/<br>- ⚡ Fun fact: I play soccer, volleyball and the Ukelele</p>
 
 ###
 
