@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-I'm a recent grad at General Assembly from the Software Engineer Program <br><br>- 🔭 Currently doing some projects in GO (Golang) <br>- 🌱 Currently using doing LeetCode problems <br>- 🤔 I’m looking to expand my knowledge in tech and network.<br>- 💬 Ask me about my projects and anything code related<br>- 📫 How to reach me: @ my Linkedin - https://www.linkedin.com/in/thiago-bueno-garcia-34604a25a/<br>- ⚡ Fun fact: I play soccer, volleyball and the Ukelele</p>
+I'm a recent grad at General Assembly from the Software Engineer Program <br><br>- 🔭 Currently doing a CLI language learning app <br>- 🌱 Currently using doing LeetCode problems <br>- 🤔 I’m looking to expand my knowledge in tech and network.<br>- 💬 Ask me about my projects and anything code related<br>- 📫 How to reach me: @ my Linkedin - https://www.linkedin.com/in/thiago-bueno-garcia-34604a25a/<br>- ⚡ Fun fact: I play soccer, volleyball and the Ukelele</p>
 
 ###
 
