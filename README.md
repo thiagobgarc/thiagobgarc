@@ -38,11 +38,6 @@
 | **[falar-portuguese-mobile](https://github.com/thiagobgarc/falar-portuguese-mobile)** | Flutter client for the same product — domain / application / presentation layers, Riverpod DI | 4,717 | 68 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/falar-portuguese-mobile?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
 | **[portfolio](https://github.com/thiagobgarc/portfolio)** | thiagobuenogarcia.com — Astro + Tailwind v4 + TypeScript, deployed on Cloudflare | 2,596 | 64 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/portfolio?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
 | **[falar-portuguese-mobile-backend](https://github.com/thiagobgarc/falar-portuguese-mobile-backend)** | The GraphQL backend the mobile client talks to, in TypeScript | 673 | 36 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/falar-portuguese-mobile-backend?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
-| **[new_portfolio](https://github.com/thiagobgarc/new_portfolio)** | Previous portfolio — Next.js + TypeScript + Tailwind | 664 | 27 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/new_portfolio?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
-| **[practice_GO_API](https://github.com/thiagobgarc/practice_GO_API)** | Go API playground — one folder per experiment | 410 | 5 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/practice_GO_API?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
-| **[astro-dark-mode-first](https://github.com/thiagobgarc/astro-dark-mode-first)** | `bun create` scaffold for a dark-mode-first Astro + React starter | — | — | <img src="https://img.shields.io/github/last-commit/thiagobgarc/astro-dark-mode-first?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
-| **[portuguese_cli](https://github.com/thiagobgarc/portuguese_cli)** | Where it started — a Python flashcard CLI with word-of-the-day and quizzes | 134 | 12 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/portuguese_cli?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
-
 <sub>Same product, three architectures: a Python CLI, an Electron desktop app, and a Flutter client on a GraphQL backend.</sub>
 
 ---
