@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/lines_of_code-45%2C367-1f6feb?style=flat-square&labelColor=161b22" alt="Lines of code" />
+  <img src="https://img.shields.io/badge/lines_of_code-45%2C510-1f6feb?style=flat-square&labelColor=161b22" alt="Lines of code" />
   <img src="https://img.shields.io/badge/public_repos-30-1f6feb?style=flat-square&labelColor=161b22" alt="Public repos" />
   <img src="https://img.shields.io/badge/languages-15-1f6feb?style=flat-square&labelColor=161b22" alt="Languages" />
   <img src="https://img.shields.io/badge/top_language-TypeScript-1f6feb?style=flat-square&labelColor=161b22" alt="Top language" />
@@ -15,14 +15,14 @@
 
 ## Code written
 
-<sub>45,367 lines across 30 public repositories. Excludes forks, dependencies, lockfiles, and generated output.</sub>
+<sub>45,510 lines across 30 public repositories. Excludes forks, dependencies, lockfiles, and generated output.</sub>
 
 | Language | Lines | Share |
 | :--- | ---: | :--- |
-| TypeScript | 30,814 | `████████████████████` 67.9% |
+| TypeScript | 30,957 | `████████████████████` 68.0% |
 | Dart | 4,919 | `███` 10.8% |
 | Astro | 3,009 | `██` 6.6% |
-| JavaScript | 1,749 | `█` 3.9% |
+| JavaScript | 1,749 | `█` 3.8% |
 | HTML | 998 | `█` 2.2% |
 | CSS | 907 | `█` 2.0% |
 | Python | 799 | `█` 1.8% |
@@ -35,7 +35,7 @@
 
 | Repo | What it is | Lines | Files | Updated |
 | :--- | :--- | ---: | ---: | :--- |
-| **[WoW-BiS](https://github.com/thiagobgarc/WoW-BiS)** | ***[Mythos](https://mythosbis.com)*** — live at mythosbis.com. Pulls your gear from the Blizzard API and diffs it slot-by-slot against best-in-slot, with upgrade board, talent builds and meta tier lists. Bun workspaces monorepo — Astro + React web, Expo React Native client, shared domain core | 22,940 | 451 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/WoW-BiS?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
+| **[WoW-BiS](https://github.com/thiagobgarc/WoW-BiS)** | ***[Mythos](https://mythosbis.com)*** — live at mythosbis.com. Pulls your gear from the Blizzard API and diffs it slot-by-slot against best-in-slot, with upgrade board, talent builds and meta tier lists. Bun workspaces monorepo — Astro + React web, Expo React Native client, shared domain core | 23,083 | 454 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/WoW-BiS?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
 | **[portuguese-learning](https://github.com/thiagobgarc/portuguese-learning)** | Brazilian Portuguese desktop app — Electron + React + GraphQL, event-sourced domain on PostgreSQL | 7,259 | 213 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/portuguese-learning?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
 | **[falar-portuguese-mobile](https://github.com/thiagobgarc/falar-portuguese-mobile)** | Flutter client for the same product — domain / application / presentation layers, Riverpod DI | 4,717 | 68 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/falar-portuguese-mobile?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
 | **[portfolio](https://github.com/thiagobgarc/portfolio)** | thiagobuenogarcia.com — Astro + Tailwind v4 + TypeScript, deployed on Cloudflare | 3,035 | 66 | <img src="https://img.shields.io/github/last-commit/thiagobgarc/portfolio?style=flat-square&label=&color=238636&labelColor=161b22" alt="" /> |
